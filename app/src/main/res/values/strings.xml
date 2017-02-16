@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimerPicker</string>
+
+
+    <string name="hint_year">年</string>
+    <string name="hint_month">月</string>
+    <string name="hint_day">日</string>
+    <string name="hint_hour">时</string>
+    <string name="hint_minute">分</string>
+    <string name="hint_second">秒</string>
+</resources>
